@@ -8,38 +8,6 @@ document.addEventListener('DOMContentLoaded', function () {
             "text": "This application contains the basic implementation of DDM events",
             "link": "./applet-1"
         },
-        {
-            "imageSrc": "image2.jpg",
-            "title": "Applet 2 - Leaftlet",
-            "text": "This application contains the basic web map",
-            "link": "./applet-2"
-        },
-        {
-            "imageSrc": "image3.jpg",
-            "title": "Applet 3 - Event Button Logger",
-            "text": "This application applies recording events while using HTML elements such as buttons",
-            "link": "./applet-3"
-        },
-        {
-            "imageSrc": "image4.jpg",
-            "title": "Applet 4- Dynamic Elements",
-            "text": "This application applies Dynamic Elements ",
-            "link": "./applet-4"
-        },
-
-        {
-            "imageSrc": "image4.jpg",
-            "title": "Applet 5 - Open Weather",
-            "text": "This application applies open weather to determine the weather of a place you want to search",
-            "link": "./applet-5"
-        },
-    
-        {
-            "imageSrc": "image4.jpg",
-            "title": "Applet 6 - Todo List",
-            "text": "This application applies to do list such as adding tast you want and can be mark as done also",
-            "link": "./applet-6"
-        }
     ];
 
  
