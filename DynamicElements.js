@@ -8,6 +8,12 @@ document.addEventListener('DOMContentLoaded', function () {
             "text": "This application contains the basic implementation of DDM events",
             "link": "./applet-1"
         },
+        {
+            "imageSrc": "image2.jpg",
+            "title": "Applet 2 - Leaftlet",
+            "text": "This application contains the basic web map",
+            "link": "./applet-2"
+        },
     ];
 
  
