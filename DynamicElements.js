@@ -20,6 +20,12 @@ document.addEventListener('DOMContentLoaded', function () {
             "text": "This application applies recording events while using HTML elements such as buttons",
             "link": "./applet-3"
         },
+        {
+            "imageSrc": "image4.jpg",
+            "title": "Applet 4- Dynamic Elements",
+            "text": "This application applies Dynamic Elements ",
+            "link": "./applet-4"
+        },
     ];
 
  
