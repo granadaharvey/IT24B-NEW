@@ -26,12 +26,20 @@ document.addEventListener('DOMContentLoaded', function () {
             "text": "This application applies Dynamic Elements ",
             "link": "./applet-4"
         },
+
         {
             "imageSrc": "image4.jpg",
             "title": "Applet 5 - Open Weather",
             "text": "This application applies open weather to determine the weather of a place you want to search",
             "link": "./applet-5"
         },
+    
+        {
+            "imageSrc": "image4.jpg",
+            "title": "Applet 6 - Todo List",
+            "text": "This application applies to do list such as adding tast you want and can be mark as done also",
+            "link": "./applet-6/applet-6.html"
+        }
     ];
 
  
