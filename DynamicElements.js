@@ -14,6 +14,12 @@ document.addEventListener('DOMContentLoaded', function () {
             "text": "This application contains the basic web map",
             "link": "./applet-2"
         },
+        {
+            "imageSrc": "image3.jpg",
+            "title": "Applet 3 - Event Button Logger",
+            "text": "This application applies recording events while using HTML elements such as buttons",
+            "link": "./applet-3"
+        },
     ];
 
  
